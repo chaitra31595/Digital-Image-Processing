@@ -1,4 +1,4 @@
-# Digital-Image-Processing
+# Digital-Image-Processing (Computer Vision)
 
 This repository contains image processing algorithms implemented as a part of EE 569 - Introduction to Digital Image Processing at USC conducted by Professor Jay Kuo.
 
